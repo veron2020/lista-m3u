@@ -1,690 +1,502 @@
-#EXTINF:-1,MyC - ANIMAL PLANET
-http://tv.cablestream.io:8080/noelia/1234/3247
-#EXTINF:-1,MyC - DISCOVERY  HOME & HEALTH
-http://tv.cablestream.io:8080/noelia/1234/3083
-#EXTINF:-1,MyC - DISCOVERY CHANNEL
-http://tv.cablestream.io:8080/noelia/1234/3251
-#EXTINF:-1,MyC - HGTV
-http://tv.cablestream.io:8080/noelia/1234/3252
-#EXTINF:-1,MyC - DISCOVERY ID
-http://tv.cablestream.io:8080/noelia/1234/4123
-#EXTINF:-1,MyC - DISCOVERY SCIENCE
-http://tv.cablestream.io:8080/noelia/1234/3082
-#EXTINF:-1,MyC - DISCOVERY THEATER
-http://tv.cablestream.io:8080/noelia/1234/4119
-#EXTINF:-1,MyC - DISCOVERY WORLD
-http://tv.cablestream.io:8080/noelia/1234/3081
-#EXTINF:-1,MYC - DISCOVERY  CIVILIZACIÓN
-http://tv.cablestream.io:8080/noelia/1234/6020
-#EXTINF:-1,MyC - DW LATINOAMERICA
-http://tv.cablestream.io:8080/noelia/1234/2102
-#EXTINF:-1,MyC - FILM & ARTS
-http://tv.cablestream.io:8080/noelia/1234/3966
-#EXTINF:-1,MyC - H2
-http://tv.cablestream.io:8080/noelia/1234/4005
-#EXTINF:-1,MyC - FRANCE 24
-http://tv.cablestream.io:8080/noelia/1234/33357
-#EXTINF:-1,MyC - HISPAN TV
-http://tv.cablestream.io:8080/noelia/1234/33481
-#EXTINF:-1,MyC - HISTORY
-http://tv.cablestream.io:8080/noelia/1234/3234
-#EXTINF:-1,MyC - NATGEO
-http://tv.cablestream.io:8080/noelia/1234/4126
-#EXTINF:-1,MyC - NATGEO MUNDO
-http://tv.cablestream.io:8080/noelia/1234/3774
-#EXTINF:-1,MyC - NATGEO WILD
-http://tv.cablestream.io:8080/noelia/1234/3270
-#EXTINF:-1,MyC - RT ESPAÑOL
-http://tv.cablestream.io:8080/noelia/1234/2064
-#EXTINF:-1,LD - BEIN SPORTS Ñ HD
-http://tv.cablestream.io:8080/noelia/1234/3747
-#EXTINF:-1,LD - BEIN SPORTS SD
-http://tv.cablestream.io:8080/noelia/1234/43187
-#EXTINF:-1,LD - DIRECTV SPORTS HD
-http://tv.cablestream.io:8080/noelia/1234/7863
-#EXTINF:-1,LD - DIRECTV SPORTS
-http://tv.cablestream.io:8080/noelia/1234/33512
-#EXTINF:-1,LD - DIRECTV SPORTS 2 HD
-http://tv.cablestream.io:8080/noelia/1234/32882
-#EXTINF:-1,LD - DIRECTV SPORTS 2
-http://tv.cablestream.io:8080/noelia/1234/32881
-#EXTINF:-1,LD - DIRECTV SPORTS PLUS HD
-http://tv.cablestream.io:8080/noelia/1234/27879
-#EXTINF:-1,LD - DIRECTV SPORTS PLUS
-http://tv.cablestream.io:8080/noelia/1234/8520
-#EXTINF:-1,LD - FOX DEPORTES USA HD
-http://tv.cablestream.io:8080/noelia/1234/3753
-#EXTINF:-1,LD - FOX SPORTS 1 SUR HD
-http://tv.cablestream.io:8080/noelia/1234/3612
-#EXTINF:-1,LD - FOX SPORTS 1 SUR
-http://tv.cablestream.io:8080/noelia/1234/18580
-#EXTINF:-1,LD - FOX SPORTS 2 SUR HD
-http://tv.cablestream.io:8080/noelia/1234/16139
-#EXTINF:-1,LD - FOX SPORTS 2 SUR SD
-http://tv.cablestream.io:8080/noelia/1234/42456
-#EXTINF:-1,LD - FOX SPORTS 3 SUR HD
-http://tv.cablestream.io:8080/noelia/1234/33475
-#EXTINF:-1,LD - FOX SPORTS 3 SUR SD
-http://tv.cablestream.io:8080/noelia/1234/43640
-#EXTINF:-1,LD - FOX SPORTS MX
-http://tv.cablestream.io:8080/noelia/1234/3267
-#EXTINF:-1,LD - FOX SPORTS 2 MX
-http://tv.cablestream.io:8080/noelia/1234/3268
-#EXTINF:-1,LD - FOX SPORTS 3 MX
-http://tv.cablestream.io:8080/noelia/1234/4008
-#EXTINF:-1,LD - ESPN DEPORTES HD
-http://tv.cablestream.io:8080/noelia/1234/3613
-#EXTINF:-1,LD - ESPN 1 SUR HD
-http://tv.cablestream.io:8080/noelia/1234/3614
-#EXTINF:-1,LD - ESPN 1 SUR SD
-http://tv.cablestream.io:8080/noelia/1234/33469
-#EXTINF:-1,LD - ESPN 2 SUR HD
-http://tv.cablestream.io:8080/noelia/1234/43637
-#EXTINF:-1,LD - ESPN 2 SUR SD
-http://tv.cablestream.io:8080/noelia/1234/3616
-#EXTINF:-1,LD - ESPN 3 SUR HD
-http://tv.cablestream.io:8080/noelia/1234/3615
-#EXTINF:-1,LD - ESPN 3 SUR SD
-http://tv.cablestream.io:8080/noelia/1234/43639
-#EXTINF:-1,LD - ESPN PLUS SUR FHD
-http://tv.cablestream.io:8080/noelia/1234/7940
-#EXTINF:-1,LD - ESPN PLUS SUR HD
-http://tv.cablestream.io:8080/noelia/1234/43638
-#EXTINF:-1,LD - ESPN MX
-http://tv.cablestream.io:8080/noelia/1234/3178
-#EXTINF:-1,LD - ESPN 2 MX
-http://tv.cablestream.io:8080/noelia/1234/3258
-#EXTINF:-1,LD - ESPN 3 MX
-http://tv.cablestream.io:8080/noelia/1234/3260
-#EXTINF:-1,LD - UNIVISION TUDN USA
-http://tv.cablestream.io:8080/noelia/1234/3751
-#EXTINF:-1,LD - UNIVISION DEPORTES FHD
-http://tv.cablestream.io:8080/noelia/1234/3962
-#EXTINF:-1,LD - UNIVISION TUDN HD
-http://tv.cablestream.io:8080/noelia/1234/4117
-#EXTINF:-1,LD - TUDN FHD
-http://tv.cablestream.io:8080/noelia/1234/3963
-#EXTINF:-1,LD - TYC SPORTS HD
-http://tv.cablestream.io:8080/noelia/1234/3759
-#EXTINF:-1,LD - TYC SPORTS
-http://tv.cablestream.io:8080/noelia/1234/8247
-#EXTINF:-1,LD - TIGO SPORTS HD (PARAGUAY)
-http://tv.cablestream.io:8080/noelia/1234/29832
-#EXTINF:-1,LD - CLARO SPORTS HD
-http://tv.cablestream.io:8080/noelia/1234/12011
-#EXTINF:-1,LD - UFC  NETWORK FHD
-http://tv.cablestream.io:8080/noelia/1234/4082
-#EXTINF:-1,LD - UFC FIGHT LATINOAMERICA
-http://tv.cablestream.io:8080/noelia/1234/3421
-#EXTINF:-1,LD - TVC DEPORTES
-http://tv.cablestream.io:8080/noelia/1234/4139
-#EXTINF:-1,LD - AYM SPORTS
-http://tv.cablestream.io:8080/noelia/1234/3089
-#EXTINF:-1,CINE - A&E
-http://tv.cablestream.io:8080/noelia/1234/3246
-#EXTINF:-1,CINE - AMC
-http://tv.cablestream.io:8080/noelia/1234/4118
-#EXTINF:-1,CINE - AXN
-http://tv.cablestream.io:8080/noelia/1234/3248
-#EXTINF:-1,CINE - DHE
-http://tv.cablestream.io:8080/noelia/1234/24180
-#EXTINF:-1,CINE - CINE LATINO
-http://tv.cablestream.io:8080/noelia/1234/4136
-#EXTINF:-1,CINE - CINECANAL
-http://tv.cablestream.io:8080/noelia/1234/3250
-#EXTINF:-1,CINE - CINEMA DINAMITA
-http://tv.cablestream.io:8080/noelia/1234/4142
-#EXTINF:-1,CINE - CINEMAX
-http://tv.cablestream.io:8080/noelia/1234/3084
-#EXTINF:-1,CINE - CLARO CINEMA
-http://tv.cablestream.io:8080/noelia/1234/4145
-#EXTINF:-1,CINE - DE PELICULA
-http://tv.cablestream.io:8080/noelia/1234/2997
-#EXTINF:-1,CINE - EUROPA EUROPA
-http://tv.cablestream.io:8080/noelia/1234/33359
-#EXTINF:-1,CINE - HBO XTREME
-http://tv.cablestream.io:8080/noelia/1234/44341
-#EXTINF:-1,CINE - FOX CHANNEL
-http://tv.cablestream.io:8080/noelia/1234/4121
-#EXTINF:-1,CINE - FOX LIFE
-http://tv.cablestream.io:8080/noelia/1234/3203
-#EXTINF:-1,CINE - FOX PREMIUM CINEMA
-http://tv.cablestream.io:8080/noelia/1234/3264
-#EXTINF:-1,CINE - FOX PREMIUM CLASSICS
-http://tv.cablestream.io:8080/noelia/1234/3077
-#EXTINF:-1,CINE - FOX PREMIUM COMEDY
-http://tv.cablestream.io:8080/noelia/1234/3102
-#EXTINF:-1,CINE - FOX PREMIUM MOVIES
-http://tv.cablestream.io:8080/noelia/1234/3266
-#EXTINF:-1,CINE - FOX PREMIUM SERIES.
-http://tv.cablestream.io:8080/noelia/1234/3262
-#EXTINF:-1,CINE - FX
-http://tv.cablestream.io:8080/noelia/1234/3201
-#EXTINF:-1,CINE - GOLDEN
-http://tv.cablestream.io:8080/noelia/1234/3236
-#EXTINF:-1,CINE - GOLDEN EDGE
-http://tv.cablestream.io:8080/noelia/1234/3237
-#EXTINF:-1,CINE - HBO
-http://tv.cablestream.io:8080/noelia/1234/3199
-#EXTINF:-1,CINE - HBO 2
-http://tv.cablestream.io:8080/noelia/1234/3198
-#EXTINF:-1,CINE - HBO POP
-http://tv.cablestream.io:8080/noelia/1234/47445
-#EXTINF:-1,CINE - HBO PLUS
-http://tv.cablestream.io:8080/noelia/1234/4003
-#EXTINF:-1,CINE - HBO MUNDI
-http://tv.cablestream.io:8080/noelia/1234/44337
-#EXTINF:-1,CINE - PANICO TV HD
-http://tv.cablestream.io:8080/noelia/1234/7436
-#EXTINF:-1,CINE - PARAMOUNT CHANNEL
-http://tv.cablestream.io:8080/noelia/1234/2952
-#EXTINF:-1,CINE - STUDIO UNIVERSAL
-http://tv.cablestream.io:8080/noelia/1234/3229
-#EXTINF:-1,CINE - SYFY
-http://tv.cablestream.io:8080/noelia/1234/3958
-#EXTINF:-1,CINE - TBS
-http://tv.cablestream.io:8080/noelia/1234/4011
-#EXTINF:-1,CINE - WARNER
-http://tv.cablestream.io:8080/noelia/1234/3228
-#EXTINF:-1,ENT - FOOD NETWORK
-http://tv.cablestream.io:8080/noelia/1234/4146
-#EXTINF:-1,ENT -COMEDY CENTRAL
-http://tv.cablestream.io:8080/noelia/1234/3241
-#EXTINF:-1,ENT -GARAGE TV
-http://tv.cablestream.io:8080/noelia/1234/4016
-#EXTINF:-1,ENT - DEL SOL TV
-http://tv.cablestream.io:8080/noelia/1234/34603
-#EXTINF:-1,ENT - BITME
-http://tv.cablestream.io:8080/noelia/1234/47698
-#EXTINF:-1,ENT -TRU TV
-http://tv.cablestream.io:8080/noelia/1234/3231
-#EXTINF:-1,INF - BABY FIRST
-http://tv.cablestream.io:8080/noelia/1234/2958
-#EXTINF:-1,INF - DISCOVERY KIDS
-http://tv.cablestream.io:8080/noelia/1234/3254
-#EXTINF:-1,INF - DISNEY JUNIOR
-http://tv.cablestream.io:8080/noelia/1234/3222
-#EXTINF:-1,INF - NICK TOONS
-http://tv.cablestream.io:8080/noelia/1234/3220
-#EXTINF:-1,INF - NICKELODEON
-http://tv.cablestream.io:8080/noelia/1234/3071
-#EXTINF:-1,NTV - 01 [NFL SUPER BOWL EN VIVO]
-http://tv.cablestream.io:8080/noelia/1234/13062
-#EXTINF:-1,NTV - 04 [NFL SUPER BOWL EN VIVO]
-http://tv.cablestream.io:8080/noelia/1234/16080
-#EXTINF:-1,NTV - 05 [ EN VIVO]
-http://tv.cablestream.io:8080/noelia/1234/16410
-#EXTINF:-1,CINP - MORE MAX HD
-http://tv.cablestream.io:8080/noelia/1234/8143
-#EXTINF:-1,CINP - MOVIE MAX
-http://tv.cablestream.io:8080/noelia/1234/8144
-#EXTINF:-1,CINP - MOVIEPLEX
-http://tv.cablestream.io:8080/noelia/1234/8145
-#EXTINF:-1,CINP - RETROPLEX HD
-http://tv.cablestream.io:8080/noelia/1234/8147
-#EXTINF:-1,CINP - STARZ ENCORE BLACK
-http://tv.cablestream.io:8080/noelia/1234/8127
-#EXTINF:-1,CINP - STARZ ENCORE FAMILY HD
-http://tv.cablestream.io:8080/noelia/1234/8129
-#EXTINF:-1,CINP - STARZ ENCORE HD
-http://tv.cablestream.io:8080/noelia/1234/8126
-#EXTINF:-1,CINP - STARZ IN BLACK
-http://tv.cablestream.io:8080/noelia/1234/8137
-#EXTINF:-1,CINP - STARZ WESTERN HD
-http://tv.cablestream.io:8080/noelia/1234/8134
-#EXTINF:-1,FHD - AXN HD
-http://tv.cablestream.io:8080/noelia/1234/4038
-#EXTINF:-1,FHD - BABY FIRST
-http://tv.cablestream.io:8080/noelia/1234/4088
-#EXTINF:-1,FHD - BABY TV HQ
-http://tv.cablestream.io:8080/noelia/1234/4116
-#EXTINF:-1,FHD - BLOOMBERG
-http://tv.cablestream.io:8080/noelia/1234/4089
-#EXTINF:-1,FHD - BOOMERANG
-http://tv.cablestream.io:8080/noelia/1234/4061
-#EXTINF:-1,FHD - CARTOON NETWORK
-http://tv.cablestream.io:8080/noelia/1234/4063
-#EXTINF:-1,FHD - DISCOVERY HOME & HEALTH
-http://tv.cablestream.io:8080/noelia/1234/4070
-#EXTINF:-1,FHD - DISCOVERY ID
-http://tv.cablestream.io:8080/noelia/1234/3600
-#EXTINF:-1,FHD - DISCOVERY KIDS
-http://tv.cablestream.io:8080/noelia/1234/4072
-#EXTINF:-1,FHD - DISCOVERY WORLD
-http://tv.cablestream.io:8080/noelia/1234/4076
-#EXTINF:-1,FHD - DISNEY JR
-http://tv.cablestream.io:8080/noelia/1234/4111
-#EXTINF:-1,FHD - DISTRITO COMEDIA
-http://tv.cablestream.io:8080/noelia/1234/4040
-#EXTINF:-1,FHD - EL GOURMET
-http://tv.cablestream.io:8080/noelia/1234/4042
-#EXTINF:-1,FHD - FOX HD
-http://tv.cablestream.io:8080/noelia/1234/4022
-#EXTINF:-1,FHD - FOX LIFE HD
-http://tv.cablestream.io:8080/noelia/1234/4043
-#EXTINF:-1,FHD - FOX PREMIUM CINEMA
-http://tv.cablestream.io:8080/noelia/1234/8238
-#EXTINF:-1,FHD - HBO HD
-http://tv.cablestream.io:8080/noelia/1234/4112
-#EXTINF:-1,FHD - HBO FAMILY
-http://tv.cablestream.io:8080/noelia/1234/3211
-#EXTINF:-1,FHD - HISTORY
-http://tv.cablestream.io:8080/noelia/1234/4093
-#EXTINF:-1,FHD - I - SAT
-http://tv.cablestream.io:8080/noelia/1234/4098
-#EXTINF:-1,FHD - NAT GEO
-http://tv.cablestream.io:8080/noelia/1234/4097
-#EXTINF:-1,FHD - NICK JR
-http://tv.cablestream.io:8080/noelia/1234/3187
-#EXTINF:-1,FHD - SPACE HD
-http://tv.cablestream.io:8080/noelia/1234/4099
-#EXTINF:-1,FHD - SYFY
-http://tv.cablestream.io:8080/noelia/1234/4049
-#EXTINF:-1,FHD - TCM HD
-http://tv.cablestream.io:8080/noelia/1234/4106
-#EXTINF:-1,FHD - TOONCAST
-http://tv.cablestream.io:8080/noelia/1234/4051
-#EXTINF:-1,FHD - UNIVERSAL CHANNEL
-http://tv.cablestream.io:8080/noelia/1234/4054
-#EXTINF:-1,NBA - NBA TV FHD
-http://tv.cablestream.io:8080/noelia/1234/3964
-#EXTINF:-1,NBA - NBA TV
-http://tv.cablestream.io:8080/noelia/1234/3710
-#EXTINF:-1,NBA - ATLANTA HAWKS
-http://tv.cablestream.io:8080/noelia/1234/18590
-#EXTINF:-1,NBA - CHICAGO BULLS
-http://tv.cablestream.io:8080/noelia/1234/18591
-#EXTINF:-1,NBA - LOS ANGELES LAKERS
-http://tv.cablestream.io:8080/noelia/1234/18549
-#EXTINF:-1,NBA - TORONTO RAPTORS
-http://tv.cablestream.io:8080/noelia/1234/18542
-#EXTINF:-1,URU - TELE12 HD
-http://tv.cablestream.io:8080/noelia/1234/18731
-#EXTINF:-1,URU - CANAL 10 HD
-http://tv.cablestream.io:8080/noelia/1234/18567
-#EXTINF:-1,URU - CANAL 10 SD
-http://tv.cablestream.io:8080/noelia/1234/3344
-#EXTINF:-1,URU - TV CIUDAD SD
-http://tv.cablestream.io:8080/noelia/1234/16136
-#EXTINF:-1,URU - DEL SOL TV
-http://tv.cablestream.io:8080/noelia/1234/34605
-#EXTINF:-1,URU - VTV HD
-http://tv.cablestream.io:8080/noelia/1234/22204
-#EXTINF:-1,URU - VTV Plus HD
-http://tv.cablestream.io:8080/noelia/1234/19354
-#EXTINF:-1,URU  - A+V (TEST)
-http://tv.cablestream.io:8080/noelia/1234/51359
-#EXTINF:-1,URU - DIRECTV SPORTS URUGUAY
-http://tv.cablestream.io:8080/noelia/1234/2041
-#EXTINF:-1,ENT - EWTN
-http://tv.cablestream.io:8080/noelia/1234/34609
-#EXTINF:-1,URU - CANAL M (TEST)
-http://tv.cablestream.io:8080/noelia/1234/34608
-#EXTINF:-1,MEX - ADN 40
-http://tv.cablestream.io:8080/noelia/1234/4025
-#EXTINF:-1,MEX - AFIZZIONADOS
-http://tv.cablestream.io:8080/noelia/1234/8248
-#EXTINF:-1,MEX - AZ CLICK
-http://tv.cablestream.io:8080/noelia/1234/3245
-#EXTINF:-1,MEX - CANAL 5
-http://tv.cablestream.io:8080/noelia/1234/3244
-#EXTINF:-1,MEX - CANAL DE LAS ESTRELLAS
-http://tv.cablestream.io:8080/noelia/1234/3243
-#EXTINF:-1,MEX - CANAL ONCE
-http://tv.cablestream.io:8080/noelia/1234/3269
-#EXTINF:-1,MEX - FORO TV
-http://tv.cablestream.io:8080/noelia/1234/4029
-#EXTINF:-1,MEX - GALA TV
-http://tv.cablestream.io:8080/noelia/1234/4031
-#EXTINF:-1,MEX - MEXIQUENSE
-http://tv.cablestream.io:8080/noelia/1234/3182
-#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY
-http://tv.cablestream.io:8080/noelia/1234/4125
-#EXTINF:-1,MEX - ONCE TV FHD
-http://tv.cablestream.io:8080/noelia/1234/4035
-#EXTINF:-1,MEX - PROYECTO 40 FHD
-http://tv.cablestream.io:8080/noelia/1234/3185
-#EXTINF:-1,MEX - TU TDN HD
-http://tv.cablestream.io:8080/noelia/1234/3397
-#EXTINF:-1,MEX - TELEFORMULA
-http://tv.cablestream.io:8080/noelia/1234/4129
-#EXTINF:-1,MEX - TL TELENOVELAS
-http://tv.cablestream.io:8080/noelia/1234/4130
-#EXTINF:-1,MEX - TV4
-http://tv.cablestream.io:8080/noelia/1234/33367
-#EXTINF:-1,MEX - UNICABLE
-http://tv.cablestream.io:8080/noelia/1234/3230
-#EXTINF:-1,MEX - TV MAS
-http://tv.cablestream.io:8080/noelia/1234/33365
-#EXTINF:-1,CHILE - TNT SPORTS
-http://tv.cablestream.io:8080/noelia/1234/16138
-#EXTINF:-1,CHILE - ESPN 2 CHILE HD
-http://tv.cablestream.io:8080/noelia/1234/27103
-#EXTINF:-1,CHILE - ESPN 2 CHILE
-http://tv.cablestream.io:8080/noelia/1234/2047
-#EXTINF:-1,CHILE - MEGA HD
-http://tv.cablestream.io:8080/noelia/1234/2148
-#EXTINF:-1,CHILE - MEGA
-http://tv.cablestream.io:8080/noelia/1234/3343
-#EXTINF:-1,CHILE - CHILEVISION  HD
-http://tv.cablestream.io:8080/noelia/1234/2147
-#EXTINF:-1,CHILE - TVN HD
-http://tv.cablestream.io:8080/noelia/1234/2151
-#EXTINF:-1,CHILE - CANAL 13
-http://tv.cablestream.io:8080/noelia/1234/3853
-#EXTINF:-1,CHILE - REC TV
-http://tv.cablestream.io:8080/noelia/1234/2024
-#EXTINF:-1,CHILE - TELECANAL HD
-http://tv.cablestream.io:8080/noelia/1234/44631
-#EXTINF:-1,CHILE - 24 HORAS
-http://tv.cablestream.io:8080/noelia/1234/23237
-#EXTINF:-1,CHILE - TELETRAK
-http://tv.cablestream.io:8080/noelia/1234/3854
-#EXTINF:-1,ECU - GOL TV HD
-http://tv.cablestream.io:8080/noelia/1234/53491
-#EXTINF:-1,ECU - CANAL UNO SD
-http://tv.cablestream.io:8080/noelia/1234/53452
-#EXTINF:-1,ECU - ECUADOR TV SD
-http://tv.cablestream.io:8080/noelia/1234/3434
-#EXTINF:-1,ECU - ECUAVISA SD
-http://tv.cablestream.io:8080/noelia/1234/8084
-#EXTINF:-1,ECU - GAMAVISIÓN SD
-http://tv.cablestream.io:8080/noelia/1234/3432
-#EXTINF:-1,ECU - OROMAR TV
-http://tv.cablestream.io:8080/noelia/1234/3431
-#EXTINF:-1,ECU - TC TELEVISION HD
-http://tv.cablestream.io:8080/noelia/1234/3429
-#EXTINF:-1,ECU - TC TELEVISION SD
-http://tv.cablestream.io:8080/noelia/1234/7533
-#EXTINF:-1,ECU - TVC FHD
-http://tv.cablestream.io:8080/noelia/1234/53460
-#EXTINF:-1,ARG - FOX SPORTS PREMIUM SD
-http://tv.cablestream.io:8080/noelia/1234/4193
-#EXTINF:-1,ARG - TYC SPORTS HD
-http://tv.cablestream.io:8080/noelia/1234/43633
-#EXTINF:-1,ARG - DEPORTV
-http://tv.cablestream.io:8080/noelia/1234/29348
-#EXTINF:-1,ARG - TV PUBLICA HD
-http://tv.cablestream.io:8080/noelia/1234/8183
-#EXTINF:-1,ARG - EL TRECE HD
-http://tv.cablestream.io:8080/noelia/1234/51070
-#EXTINF:-1,ARG - TELEFE HD
-http://tv.cablestream.io:8080/noelia/1234/51071
-#EXTINF:-1,ARG - AMERICA TV SD
-http://tv.cablestream.io:8080/noelia/1234/2040
-#EXTINF:-1,ARG - EL NUEVE HD
-http://tv.cablestream.io:8080/noelia/1234/51072
-#EXTINF:-1,ARG - NET TV HD
-http://tv.cablestream.io:8080/noelia/1234/3356
-#EXTINF:-1,ARG - CANAL 26
-http://tv.cablestream.io:8080/noelia/1234/3442
-#EXTINF:-1,ARG - CRONICA
-http://tv.cablestream.io:8080/noelia/1234/4188
-#EXTINF:-1,ARG - CIUDAD MAGAZINE
-http://tv.cablestream.io:8080/noelia/1234/3787
-#EXTINF:-1,COL - CABLENOTICIAS
-http://tv.cablestream.io:8080/noelia/1234/2119
-#EXTINF:-1,COL - CARACOL HD
-http://tv.cablestream.io:8080/noelia/1234/3213
-#EXTINF:-1,COL - CARACOL SD
-http://tv.cablestream.io:8080/noelia/1234/4094
-#EXTINF:-1,COL - RCN
-http://tv.cablestream.io:8080/noelia/1234/4002
-#EXTINF:-1,COL - RCN HD
-http://tv.cablestream.io:8080/noelia/1234/3415
-#EXTINF:-1,COL - TELECAFE
-http://tv.cablestream.io:8080/noelia/1234/2128
-#EXTINF:-1,COL - WIN SPORTS HD
-http://tv.cablestream.io:8080/noelia/1234/3057
-#EXTINF:-1,COL - NTN 24
-http://tv.cablestream.io:8080/noelia/1234/41815
-#EXTINF:-1,LAT - UNIVISION HD
-http://tv.cablestream.io:8080/noelia/1234/3796
-#EXTINF:-1,LAT - UNIVISION NOTICIAS
-http://tv.cablestream.io:8080/noelia/1234/18568
-#EXTINF:-1,LAT - UNIVISION NEW YORK
-http://tv.cablestream.io:8080/noelia/1234/2021
-#EXTINF:-1,LAT - UNIVISION DENVER
-http://tv.cablestream.io:8080/noelia/1234/18565
-#EXTINF:-1,LAT - UNIVISION LOS ANGELES
-http://tv.cablestream.io:8080/noelia/1234/18564
-#EXTINF:-1,LAT - UNIVISION SAN FRANCISCO
-http://tv.cablestream.io:8080/noelia/1234/18560
-#EXTINF:-1,LAT - UNIVISION CHICAGO
-http://tv.cablestream.io:8080/noelia/1234/47679
-#EXTINF:-1,LAT - TELEMUNDO BOSTON
-http://tv.cablestream.io:8080/noelia/1234/3794
-#EXTINF:-1,LAT - TELEMUNDO 51 MIAMI
-http://tv.cablestream.io:8080/noelia/1234/18779
-#EXTINF:-1,LAT - TELEMUNDO HOUSTON
-http://tv.cablestream.io:8080/noelia/1234/18776
-#EXTINF:-1,LAT - UNIMAS LOS ANGELES
-http://tv.cablestream.io:8080/noelia/1234/18774
-#EXTINF:-1,LAT - CNN EN ESPAÑOL
-http://tv.cablestream.io:8080/noelia/1234/4014
-#EXTINF:-1,LAT - GALAVISION HD
-http://tv.cablestream.io:8080/noelia/1234/3793
-#EXTINF:-1,LAT - CNN USA
-http://tv.cablestream.io:8080/noelia/1234/33360
-#EXTINF:-1,LAT - FIGHTING SPORTS NETWORK
-http://tv.cablestream.io:8080/noelia/1234/2962
-#EXTINF:-1,LAT - FOX BOSTON
-http://tv.cablestream.io:8080/noelia/1234/45552
-#EXTINF:-1,LAT - NBC  BOSTON
-http://tv.cablestream.io:8080/noelia/1234/45551
-#EXTINF:-1,LAT - AMERICATEVE
-http://tv.cablestream.io:8080/noelia/1234/48119
-#EXTINF:-1,PAN - TELEMETRO CANAL 13 SD
-http://tv.cablestream.io:8080/noelia/1234/53495
-#EXTINF:-1,PAN - TV MAX SD
-http://tv.cablestream.io:8080/noelia/1234/53492
-#EXTINF:-1,PAN - TVN FHD
-http://tv.cablestream.io:8080/noelia/1234/53494
-#EXTINF:-1,PAN - MAS TV 23 SD
-http://tv.cablestream.io:8080/noelia/1234/16718
-#EXTINF:-1,RD - TELEANTILLAS
-http://tv.cablestream.io:8080/noelia/1234/8241
-#EXTINF:-1,RD - Television Dominicana
-http://tv.cablestream.io:8080/noelia/1234/41291
-#EXTINF:-1,BRA - COMBAT
-http://tv.cablestream.io:8080/noelia/1234/29328
-#EXTINF:-1,BRA - GLOOB
-http://tv.cablestream.io:8080/noelia/1234/7772
-#EXTINF:-1,BRA - SBT
-http://tv.cablestream.io:8080/noelia/1234/7768
-#EXTINF:-1,BRA - TELECINE ACTION
-http://tv.cablestream.io:8080/noelia/1234/7780
-#EXTINF:-1,BRA - TELECINE CULT
-http://tv.cablestream.io:8080/noelia/1234/7781
-#EXTINF:-1,BRA - TELECINE PREMIUM
-http://tv.cablestream.io:8080/noelia/1234/7782
-#EXTINF:-1,BRA - BAND NOTICIAS
-http://tv.cablestream.io:8080/noelia/1234/29331
-#EXTINF:-1,BRA - WOOHOO
-http://tv.cablestream.io:8080/noelia/1234/8327
-#EXTINF:-1,BRA - BAND SPORT
-http://tv.cablestream.io:8080/noelia/1234/29330
-#EXTINF:-1,PERU - AMERICA TV
-http://tv.cablestream.io:8080/noelia/1234/2174
-#EXTINF:-1,PERU - CAPITAL TV
-http://tv.cablestream.io:8080/noelia/1234/2172
-#EXTINF:-1,PERU - GOL PERU HD
-http://tv.cablestream.io:8080/noelia/1234/3605
-#EXTINF:-1,PERU - MOVISTAR PLUS
-http://tv.cablestream.io:8080/noelia/1234/3398
-#EXTINF:-1,CR - REPRETEL 4
-http://tv.cablestream.io:8080/noelia/1234/8150
-#EXTINF:-1,CR - FUTV
-http://tv.cablestream.io:8080/noelia/1234/47854
-#EXTINF:-1,CUBA - CUBAVISION INTERNACIONAL
-http://tv.cablestream.io:8080/noelia/1234/9842
-#EXTINF:-1,HON - GLOBO TV
-http://tv.cablestream.io:8080/noelia/1234/28576
-#EXTINF:-1,HON - HCH
-http://tv.cablestream.io:8080/noelia/1234/28572
-#EXTINF:-1,HON - CHTV
-http://tv.cablestream.io:8080/noelia/1234/51389
-#EXTINF:-1,HON - CANAL 11
-http://tv.cablestream.io:8080/noelia/1234/16721
-#EXTINF:-1,GUAT - CANAL 3
-http://tv.cablestream.io:8080/noelia/1234/42017
-#EXTINF:-1,GUAT - CANAL 11
-http://tv.cablestream.io:8080/noelia/1234/42020
-#EXTINF:-1,VEN - TELESUR TV
-http://tv.cablestream.io:8080/noelia/1234/2043
-#EXTINF:-1,VEN - VENEZOLANA DE TELEVISION
-http://tv.cablestream.io:8080/noelia/1234/18596
-#EXTINF:-1,VEN - GLOBOVISION SD
-http://tv.cablestream.io:8080/noelia/1234/18600
-#EXTINF:-1,VEN - VENEVISION PLUS
-http://tv.cablestream.io:8080/noelia/1234/18593
-#EXTINF:-1,SAL - ORBITA TV
-http://tv.cablestream.io:8080/noelia/1234/51404
-#EXTINF:-1,ES - ANTENA 3 INT.
-http://tv.cablestream.io:8080/noelia/1234/4108
-#EXTINF:-1,ES - BABY TV
-http://tv.cablestream.io:8080/noelia/1234/3090
-#EXTINF:-1,ES - BAR TV FHD
-http://tv.cablestream.io:8080/noelia/1234/3131
-#EXTINF:-1,ES - BEINS SPORTS ESPAÑA
-http://tv.cablestream.io:8080/noelia/1234/3118
-#EXTINF:-1,ES - CLAN
-http://tv.cablestream.io:8080/noelia/1234/4131
-#EXTINF:-1,ES - CLAN TVE
-http://tv.cablestream.io:8080/noelia/1234/3124
-#EXTINF:-1,ES - COMEDY CENTRAL HD
-http://tv.cablestream.io:8080/noelia/1234/3103
-#EXTINF:-1,ES - FDF
-http://tv.cablestream.io:8080/noelia/1234/3169
-#EXTINF:-1,ES - FOX HD
-http://tv.cablestream.io:8080/noelia/1234/47695
-#EXTINF:-1,ES - FOX HD
-http://tv.cablestream.io:8080/noelia/1234/47696
-#EXTINF:-1,ES - GOL TV
-http://tv.cablestream.io:8080/noelia/1234/3128
-#EXTINF:-1,ES - LA LIGA TV BAR FHD
-http://tv.cablestream.io:8080/noelia/1234/51343
-#EXTINF:-1,ES - LA 1 FHD
-http://tv.cablestream.io:8080/noelia/1234/3165
-#EXTINF:-1,ES - LA CUATRO
-http://tv.cablestream.io:8080/noelia/1234/17191
-#EXTINF:-1,ES - MOVISTAR COMEDIA
-http://tv.cablestream.io:8080/noelia/1234/3143
-#EXTINF:-1,ES - PANDA
-http://tv.cablestream.io:8080/noelia/1234/3136
-#EXTINF:-1,ES - TCM HD
-http://tv.cablestream.io:8080/noelia/1234/3171
-#EXTINF:-1,ES - TNT
-http://tv.cablestream.io:8080/noelia/1234/3138
-#EXTINF:-1,MLB - GAME 1 PPV
-http://tv.cablestream.io:8080/noelia/1234/53074
-#EXTINF:-1,NBA GOLDEN STATE WARRIORS
-http://tv.cablestream.io:8080/noelia/1234/3593
-#EXTINF:-1,NBA - DENVER NUGGETS
-http://tv.cablestream.io:8080/noelia/1234/3351
-#EXTINF:-1,NBA - BROOKLYN NETS
-http://tv.cablestream.io:8080/noelia/1234/3346
-#EXTINF:-1,NBA - WASHINGTON WIZARDS
-http://tv.cablestream.io:8080/noelia/1234/18566
-#EXTINF:-1,NHL - NETWORK
-http://tv.cablestream.io:8080/noelia/1234/4015
-#EXTINF:-1,MX - TV UNAM
-http://tv.cablestream.io:8080/noelia/1234/18574
-#EXTINF:-1,US.SP - FOX SPORTS 2
-http://tv.cablestream.io:8080/noelia/1234/2044
-#EXTINF:-1,US.SP - NBC SPORTS
-http://tv.cablestream.io:8080/noelia/1234/3709
-#EXTINF:-1,US.SP - PAC 12 BAY AREA
-http://tv.cablestream.io:8080/noelia/1234/3368
-#EXTINF:-1,US.SP - TSN SPORT 2 HD
-http://tv.cablestream.io:8080/noelia/1234/3362
-#EXTINF:-1,US.SP - WWE HD
-http://tv.cablestream.io:8080/noelia/1234/3426
-#EXTINF:-1,MUS - HTV
-http://tv.cablestream.io:8080/noelia/1234/51395
-#EXTINF:-1,MUS - BANDAMAX
-http://tv.cablestream.io:8080/noelia/1234/3086
-#EXTINF:-1,MUS - VH1 CLASSIC
-http://tv.cablestream.io:8080/noelia/1234/4133
-#EXTINF:-1,PPV - CINE INFANTIL 03
-http://tv.cablestream.io:8080/noelia/1234/29415
-#EXTINF:-1,PPV - CINEMA 07 FHD (ES).
-http://tv.cablestream.io:8080/noelia/1234/8003
-#EXTINF:-1,PPV - CINEMA 17 FHD (ES).
-http://tv.cablestream.io:8080/noelia/1234/7993
-#EXTINF:-1,PPV - CINEMA 20 FHD (ES).
-http://tv.cablestream.io:8080/noelia/1234/7990
-#EXTINF:-1,PPV - CINEMA 25 FHD (ES).
-http://tv.cablestream.io:8080/noelia/1234/7985
-#EXTINF:-1,PPV - CINEMA 30 FHD (ES).
-http://tv.cablestream.io:8080/noelia/1234/7980
-#EXTINF:-1,US.FM - FXX
-http://tv.cablestream.io:8080/noelia/1234/3770
-#EXTINF:-1,US.FM - FYI
-http://tv.cablestream.io:8080/noelia/1234/3771
-#EXTINF:-1,US.FM - SONY MOVIE CHANEL
-http://tv.cablestream.io:8080/noelia/1234/3704
-#EXTINF:-1,US.FM - FOX LIFE
-http://tv.cablestream.io:8080/noelia/1234/3766
-#EXTINF:-1,US.FM - HALLMARK MOVIES & MISTERIES
-http://tv.cablestream.io:8080/noelia/1234/3782
-#EXTINF:-1,US.FM - NBC
-http://tv.cablestream.io:8080/noelia/1234/3687
-#EXTINF:-1,US.FM - MEGA TV
-http://tv.cablestream.io:8080/noelia/1234/45280
-#EXTINF:-1,US.EN - COMEDY CENTRAL
-http://tv.cablestream.io:8080/noelia/1234/17178
-#EXTINF:-1,US.EN - E! ENTERTAINMENT
-http://tv.cablestream.io:8080/noelia/1234/3764
-#EXTINF:-1,US.WC - MSNBC HD
-http://tv.cablestream.io:8080/noelia/1234/35310
-#EXTINF:-1,US.EN - OUTDOOR CHANNEL
-http://tv.cablestream.io:8080/noelia/1234/22379
-#EXTINF:-1,US.EN - O.W.N (oprah winfrey network)
-http://tv.cablestream.io:8080/noelia/1234/22383
-#EXTINF:-1,US.WC - ABC MIAMI
-http://tv.cablestream.io:8080/noelia/1234/29078
-#EXTINF:-1,US.WC - CNN INTERNACIONAL
-http://tv.cablestream.io:8080/noelia/1234/3377
-#EXTINF:-1,US.WC - DISCOVERY SCIENCIE
-http://tv.cablestream.io:8080/noelia/1234/18770
-#EXTINF:-1,US.WC - FOX PHILADELPHIA
-http://tv.cablestream.io:8080/noelia/1234/43290
-#EXTINF:-1,US.WC - FOX NEWS
-http://tv.cablestream.io:8080/noelia/1234/29350
-#EXTINF:-1,US.CH - DISNEY CHANNEL
-http://tv.cablestream.io:8080/noelia/1234/29142
-#EXTINF:-1,24/7 - DRAGON BALL GT
-http://tv.cablestream.io:8080/noelia/1234/44344
-#EXTINF:-1,24/7 - LOS SIMPSON HD
-http://tv.cablestream.io:8080/noelia/1234/29412
-#EXTINF:-1,24/7 EL CHAVO DEL OCHO
-http://tv.cablestream.io:8080/noelia/1234/18576
-#EXTINF:-1,25/7 - Malcolm
-http://tv.cablestream.io:8080/noelia/1234/44818
-#EXTINF:-1,RADIO -
-http://tv.cablestream.io:8080/noelia/1234/40933
-#EXTINF:-1,BOL - UNITEL
-http://tv.cablestream.io:8080/noelia/1234/52619
-#EXTINF:-1,US-SP UFC FIGHT PASS
-http://tv.cablestream.io:8080/noelia/1234/53373
-#EXTINF:-1,ES - LA 1 HD
-http://tv.cablestream.io:8080/noelia/1234/53894
-#EXTINF:-1,US.SP - NBC SN
-http://tv.cablestream.io:8080/noelia/1234/53905
-#EXTINF:-1,ES - TV GALICIA
-http://tv.cablestream.io:8080/noelia/1234/54155
-#EXTINF:-1,BOL -  BOLIVISION TV ⁽ᴴᴰ⁾
-http://tv.cablestream.io:8080/noelia/1234/54733
-#EXTINF:-1,US.LOC- PBS NEW YORK
-http://tv.cablestream.io:8080/noelia/1234/55057
-#EXTINF:-1,US - TBS
-http://tv.cablestream.io:8080/noelia/1234/56298
-#EXTINF:-1,LAT- UNIVISION ATLANTA
-http://tv.cablestream.io:8080/noelia/1234/56303
-#EXTINF:-1,COL - CANAL UNO FHD
-http://tv.cablestream.io:8080/noelia/1234/1066863
-#EXTINF:-1,PERU-America sd
-http://tv.cablestream.io:8080/noelia/1234/1068850
-#EXTINF:-1,US.SP - CW NETWORK
-http://tv.cablestream.io:8080/noelia/1234/1069953
+#EXTINF:-1,DW España | España
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/6.m3u8
+#EXTINF:-1,Telemundo | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/7.m3u8
+#EXTINF:-1,Canal 10 Cancun | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/10.m3u8
+#EXTINF:-1,Canal Once | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/13.m3u8
+#EXTINF:-1,Canal 11 | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/14.m3u8
+#EXTINF:-1,Multimedios | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/18.m3u8
+#EXTINF:-1,Milenio TV | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/19.m3u8
+#EXTINF:-1,DW | Mundo y Noticias
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/21.m3u8
+#EXTINF:-1,mtmad 24h | España
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/28.m3u8
+#EXTINF:-1,Sevilla FC TV | España
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/33.m3u8
+#EXTINF:-1,Music Top | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/34.m3u8
+#EXTINF:-1,FOX Sports 2 Sur | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/36.m3u8
+#EXTINF:-1,FOX Sports 3 Sur | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/37.m3u8
+#EXTINF:-1,FOX Deportes | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/39.m3u8
+#EXTINF:-1,Win Sports | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/40.m3u8
+#EXTINF:-1,Warner Channel | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/42.m3u8
+#EXTINF:-1,Universal Channel | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/43.m3u8
+#EXTINF:-1,TNT | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/45.m3u8
+#EXTINF:-1,TBS | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/46.m3u8
+#EXTINF:-1,Syfy | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/47.m3u8
+#EXTINF:-1,Studio Universal | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/48.m3u8
+#EXTINF:-1,Sony | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/49.m3u8
+#EXTINF:-1,RCN Telenovelas | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/50.m3u8
+#EXTINF:-1,Paramount Channel | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/51.m3u8
+#EXTINF:-1,Glitz | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/52.m3u8
+#EXTINF:-1,FOX Life | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/53.m3u8
+#EXTINF:-1,Distrito Comedia | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/57.m3u8
+#EXTINF:-1,De Pelicula | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/58.m3u8
+#EXTINF:-1,Comedy Central | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/59.m3u8
+#EXTINF:-1,Cinecanal | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/60.m3u8
+#EXTINF:-1,Boomerang | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/62.m3u8
+#EXTINF:-1,AXN | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/63.m3u8
+#EXTINF:-1,A&E | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/64.m3u8
+#EXTINF:-1,Telemundo NY | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/67.m3u8
+#EXTINF:-1,Telemundo Miami | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/68.m3u8
+#EXTINF:-1,Telemundo LA | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/69.m3u8
+#EXTINF:-1,HBO Family | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/72.m3u8
+#EXTINF:-1,HBO 2 | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/73.m3u8
+#EXTINF:-1,FXM | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/76.m3u8
+#EXTINF:-1,FX | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/77.m3u8
+#EXTINF:-1,FOX Premium Series | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/78.m3u8
+#EXTINF:-1,FOX Premium Movies | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/79.m3u8
+#EXTINF:-1,FOX Premium Cinema | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/81.m3u8
+#EXTINF:-1,FOX Premium Action | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/82.m3u8
+#EXTINF:-1,Cinemax | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/83.m3u8
+#EXTINF:-1,AMC | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/84.m3u8
+#EXTINF:-1,VH1 Classics | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/85.m3u8
+#EXTINF:-1,MTV Hits | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/87.m3u8
+#EXTINF:-1,MTV | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/88.m3u8
+#EXTINF:-1,Nickelodeon | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/89.m3u8
+#EXTINF:-1,Disney XD | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/91.m3u8
+#EXTINF:-1,Disney Jr | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/92.m3u8
+#EXTINF:-1,Cartoon Network | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/93.m3u8
+#EXTINF:-1,Nat Geo | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/95.m3u8
+#EXTINF:-1,H2 | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/98.m3u8
+#EXTINF:-1,Discovery Turbo | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/99.m3u8
+#EXTINF:-1,Discovery TLC | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/100.m3u8
+#EXTINF:-1,Discovery Kids | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/102.m3u8
+#EXTINF:-1,Animal Planet | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/105.m3u8
+#EXTINF:-1,Galavision | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/106.m3u8
+#EXTINF:-1,Antena 3 | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/107.m3u8
+#EXTINF:-1,Las Estrellas | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/113.m3u8
+#EXTINF:-1,Foro TV | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/114.m3u8
+#EXTINF:-1,ADN 40 | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/115.m3u8
+#EXTINF:-1,FOX Sports 3 | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/116.m3u8
+#EXTINF:-1,ESPN 2 | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/120.m3u8
+#EXTINF:-1,ESPN Plus | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/122.m3u8
+#EXTINF:-1,FXM | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/125.m3u8
+#EXTINF:-1,Telehit | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/126.m3u8
+#EXTINF:-1,Azteca 7 | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/127.m3u8
+#EXTINF:-1,HBO Signature | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/128.m3u8
+#EXTINF:-1,Golden Premier | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/129.m3u8
+#EXTINF:-1,TUDN | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/131.m3u8
+#EXTINF:-1,Bein Sports Español | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/132.m3u8
+#EXTINF:-1,MLB Network | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/149.m3u8
+#EXTINF:-1,Mobcrush Gaming | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/150.m3u8
+#EXTINF:-1,Red Bull TV | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/151.m3u8
+#EXTINF:-1,Red Bull TV (UHD) | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/152.m3u8
+#EXTINF:-1,Rooster Teeth TV Gaming | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/153.m3u8
+#EXTINF:-1,CGTN 1 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/173.m3u8
+#EXTINF:-1,30A TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/176.m3u8
+#EXTINF:-1,AKC TV  | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/177.m3u8
+#EXTINF:-1,Beach TV - 30A | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/181.m3u8
+#EXTINF:-1,Beach TV - Panama City | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/182.m3u8
+#EXTINF:-1,Beach TV - Pawleys Island | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/183.m3u8
+#EXTINF:-1,Cheddar News | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/189.m3u8
+#EXTINF:-1,CONtv | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/190.m3u8
+#EXTINF:-1,ET Live | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/193.m3u8
+#EXTINF:-1,Filmrise Crime | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/195.m3u8
+#EXTINF:-1,Filmrise Classics | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/196.m3u8
+#EXTINF:-1,Folk TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/199.m3u8
+#EXTINF:-1,Food52 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/200.m3u8
+#EXTINF:-1,Free Speech TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/201.m3u8
+#EXTINF:-1,Key TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/202.m3u8
+#EXTINF:-1,Newsmax TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/206.m3u8
+#EXTINF:-1,CC-TV Charlotte County | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/211.m3u8
+#EXTINF:-1,Afizzionados | Deportes
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/212.m3u8
+#EXTINF:-1,La Mega Mundial
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23444.m3u8
+#EXTINF:-1,RT Español
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23448.m3u8
+#EXTINF:-1,Zee Mundo
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23450.m3u8
+#EXTINF:-1,Sipse TV Cancun
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23456.m3u8
+#EXTINF:-1,Telemax Hermosillo
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23459.m3u8
+#EXTINF:-1,Xti TV Guadalajara
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23462.m3u8
+#EXTINF:-1,TVC Deportes Mexico | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23684.m3u8
+#EXTINF:-1,Bein LaLiga Latinos | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23686.m3u8
+#EXTINF:-1,Bein Sports N Latinos | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23687.m3u8
+#EXTINF:-1,Barca TV Espana | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23688.m3u8
+#EXTINF:-1,Canal Toros Espana | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23689.m3u8
+#EXTINF:-1,Bein Sports USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23697.m3u8
+#EXTINF:-1,CBS Sport Network USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23698.m3u8
+#EXTINF:-1,Eleven Sports Network USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23699.m3u8
+#EXTINF:-1,ESPN 2 USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23701.m3u8
+#EXTINF:-1,Fight Network USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23704.m3u8
+#EXTINF:-1,Fox Soccer Plus USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23705.m3u8
+#EXTINF:-1,Fox Sports Ohio USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23716.m3u8
+#EXTINF:-1,Fox Sports South USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23721.m3u8
+#EXTINF:-1,Fox Sports Southeast USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23722.m3u8
+#EXTINF:-1,Fox Sports SUN USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23724.m3u8
+#EXTINF:-1,Fox Sports Tennessee USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23725.m3u8
+#EXTINF:-1,FOX Sportstime Ohio USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23726.m3u8
+#EXTINF:-1,Fox Sports Winsconsin USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23728.m3u8
+#EXTINF:-1,Fox Sports Yes USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23729.m3u8
+#EXTINF:-1,FS1 USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23730.m3u8
+#EXTINF:-1,Outdoor Channel USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23738.m3u8
+#EXTINF:-1,PAC-12 Arizona USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23739.m3u8
+#EXTINF:-1,PAC-12 Los Angeles USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23741.m3u8
+#EXTINF:-1,PAC-12 Mountain USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23742.m3u8
+#EXTINF:-1,PAC-12 Network USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23743.m3u8
+#EXTINF:-1,PAC-12 Oregon USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23744.m3u8
+#EXTINF:-1,PAC-12 Washington USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23745.m3u8
+#EXTINF:-1,Sportsnet NY USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23747.m3u8
+#EXTINF:-1,Tennis Channel USA | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23748.m3u8
+#EXTINF:-1,BT Sport 1 UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23750.m3u8
+#EXTINF:-1,BT Sport 2 UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23751.m3u8
+#EXTINF:-1,BT Sport ESPN UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23753.m3u8
+#EXTINF:-1,Chelsea TV UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23754.m3u8
+#EXTINF:-1,Eurosport 1 UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23755.m3u8
+#EXTINF:-1,Eurosport 2 UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23756.m3u8
+#EXTINF:-1,Premier Sports 2 UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23759.m3u8
+#EXTINF:-1,Sky Sports Football UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23764.m3u8
+#EXTINF:-1,Sky Sports Golf UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23765.m3u8
+#EXTINF:-1,Sky Sports Mix UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23767.m3u8
+#EXTINF:-1,Sky Sports News UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23768.m3u8
+#EXTINF:-1,Sky Sports Premier League UK | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23769.m3u8
+#EXTINF:-1,TSN 1 Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23776.m3u8
+#EXTINF:-1,TSN 3 Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23778.m3u8
+#EXTINF:-1,TSN 4 Canada | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23779.m3u8
+#EXTINF:-1,Claro Sports Colombia | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23784.m3u8
+#EXTINF:-1,ESPN 2 Colombia | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23785.m3u8
+#EXTINF:-1,ESPN 3 Colombia | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23786.m3u8
+#EXTINF:-1,ESPN Colombia | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23787.m3u8
+#EXTINF:-1,Win Colombia Sports | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23788.m3u8
+#EXTINF:-1,AZ Cinema | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23789.m3u8
+#EXTINF:-1,AZ Corazon | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23791.m3u8
+#EXTINF:-1,Azteca 7 | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23793.m3u8
+#EXTINF:-1,Azteca Uno | Nacionales
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23794.m3u8
+#EXTINF:-1,Imagen TV | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23796.m3u8
+#EXTINF:-1,Pasiones | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23798.m3u8
+#EXTINF:-1,Sundance Channel | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23800.m3u8
+#EXTINF:-1,TCM | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23801.m3u8
+#EXTINF:-1,RCN | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23805.m3u8
+#EXTINF:-1,RCN Telenovelas | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23806.m3u8
+#EXTINF:-1,Caracol | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23807.m3u8
+#EXTINF:-1,Cinelatino | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23808.m3u8
+#EXTINF:-1,Hola TV | Entretenimiento
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23809.m3u8
+#EXTINF:-1,Disney Channel | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23813.m3u8
+#EXTINF:-1,Nat Geo Kids | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23814.m3u8
+#EXTINF:-1,Nick 2 | Kids
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23815.m3u8
+#EXTINF:-1,Discovery Science | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23819.m3u8
+#EXTINF:-1,Discovery Theater | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23820.m3u8
+#EXTINF:-1,FOX Premium Comedy | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23822.m3u8
+#EXTINF:-1,FOX Premium Family | Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23823.m3u8
+#EXTINF:-1,Golf Latin America | Deportes Premium
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23827.m3u8
+#EXTINF:-1,MTV Live | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23828.m3u8
+#EXTINF:-1,VH1 Classics | Musica
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23830.m3u8
+#EXTINF:-1,ABC 7 (Bay Area) | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23833.m3u8
+#EXTINF:-1,AMC | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23834.m3u8
+#EXTINF:-1,BabyTV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23836.m3u8
+#EXTINF:-1,Bravo | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23837.m3u8
+#EXTINF:-1,Cartoon Network | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23838.m3u8
+#EXTINF:-1,Sony Movie Channel | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23839.m3u8
+#EXTINF:-1,Cinemax | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23840.m3u8
+#EXTINF:-1,Comedy Central | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23842.m3u8
+#EXTINF:-1,Cozi TV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23843.m3u8
+#EXTINF:-1,Discovery Channel | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23844.m3u8
+#EXTINF:-1,DIY | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23849.m3u8
+#EXTINF:-1,Food Network | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23851.m3u8
+#EXTINF:-1,FOX 4 (Dallas) | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23852.m3u8
+#EXTINF:-1,FOX 5 (Atlanta) | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23853.m3u8
+#EXTINF:-1,FOX Life | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23854.m3u8
+#EXTINF:-1,Fuse | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23855.m3u8
+#EXTINF:-1,FX | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23856.m3u8
+#EXTINF:-1,FXM | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23857.m3u8
+#EXTINF:-1,FXX | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23858.m3u8
+#EXTINF:-1,Fyi | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23859.m3u8
+#EXTINF:-1,HBO 2 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23863.m3u8
+#EXTINF:-1,HBO Comedy | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23864.m3u8
+#EXTINF:-1,HGTV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23866.m3u8
+#EXTINF:-1,History | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23867.m3u8
+#EXTINF:-1,Investigation Discovery | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23868.m3u8
+#EXTINF:-1,Lifetime | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23869.m3u8
+#EXTINF:-1,MSG Plus | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23871.m3u8
+#EXTINF:-1,Nat Geo | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23872.m3u8
+#EXTINF:-1,Nat Geo Mundo | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23873.m3u8
+#EXTINF:-1,Nat Geo Wild | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23874.m3u8
+#EXTINF:-1,National Geographic | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23875.m3u8
+#EXTINF:-1,NBC 4 (Los Angeles) | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23876.m3u8
+#EXTINF:-1,NBCS Network | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23877.m3u8
+#EXTINF:-1,NBCSN Philadelphia | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23879.m3u8
+#EXTINF:-1,NESN Plus | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23882.m3u8
+#EXTINF:-1,NIckelodeon | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23883.m3u8
+#EXTINF:-1,PBS | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23885.m3u8
+#EXTINF:-1,Pop | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23886.m3u8
+#EXTINF:-1,Showtime | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23887.m3u8
+#EXTINF:-1,Showtime 2 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23888.m3u8
+#EXTINF:-1,Starz East | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23891.m3u8
+#EXTINF:-1,TBS | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23893.m3u8
+#EXTINF:-1,TLC | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23894.m3u8
+#EXTINF:-1,TNT | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23895.m3u8
+#EXTINF:-1,Travel Channel | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23896.m3u8
+#EXTINF:-1,TruTV | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23897.m3u8
+#EXTINF:-1,USA Network | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23898.m3u8
+#EXTINF:-1,VH1 | United States Channel
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23899.m3u8
+#EXTINF:-1,Herndon (VA) (Midway Home Service) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23934.m3u8
+#EXTINF:-1,New York City (NY) (Times Square 2) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23939.m3u8
+#EXTINF:-1,Richmond (VA) (Science Museum of Virginia) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23942.m3u8
+#EXTINF:-1,San Diego (CA) (Panda 1) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23943.m3u8
+#EXTINF:-1,San Diego (CA) (Panda 2) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23944.m3u8
+#EXTINF:-1,San Diego (CA) (Polar Bear) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23945.m3u8
+#EXTINF:-1,Toronto (Niagara Falls 1) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23947.m3u8
+#EXTINF:-1,London (Abbey Road) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23948.m3u8
+#EXTINF:-1,Bremen (Gemeinde Rednitzhembach Rathausplatz) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23949.m3u8
+#EXTINF:-1,Velbert (Nordrhein-Westfalen)
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23950.m3u8
+#EXTINF:-1,Jerzens (Tirol Airport) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23952.m3u8
+#EXTINF:-1,Finse (Hotel Finse 1222) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23954.m3u8
+#EXTINF:-1,Pieksamaki (Pieksanjarvi Lake) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23955.m3u8
+#EXTINF:-1,Sjoberg (Marsfjall Mountain Lodge) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23956.m3u8
+#EXTINF:-1,Potes (Picos de Europa) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23960.m3u8
+#EXTINF:-1,Rio de Janeiro (Copacabana Beach) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23962.m3u8
+#EXTINF:-1,Nablus (City Center) | CCTV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/23965.m3u8
+#EXTINF:-1,Monte Maria | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24130.m3u8
+#EXTINF:-1,Genesis TV | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24131.m3u8
+#EXTINF:-1,Canal Diocesano | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24132.m3u8
+#EXTINF:-1,Español | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24133.m3u8
+#EXTINF:-1,CBN Español | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24134.m3u8
+#EXTINF:-1,Logos TV | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24135.m3u8
+#EXTINF:-1,Magestad TV | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24136.m3u8
+#EXTINF:-1,RTV Vida | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24137.m3u8
+#EXTINF:-1,Solidaria TV | Canales Religiosos
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/24138.m3u8
+#EXTINF:-1,Cali TV
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/25474.m3u8
+#EXTINF:-1,CGTN Español | Ciencia y Cultura
+http://xui.bixi.live:25461/live/nahum552469/nahum552469/25783.m3u8
